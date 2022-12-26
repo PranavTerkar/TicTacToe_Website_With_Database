@@ -1,0 +1,36 @@
+.form{
+    margin: 5px;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    padding: 20px;
+}
+.button1{
+    color: inherit; /* blue colors for links too */
+    text-decoration: inherit; /* no underline */
+    margin-top: 10px;
+    margin-right: 80%;
+    border: none;
+    background-color: #fff;
+}
+
+.form > h6{
+    margin-top: 20px;
+}
+.form > h3{
+    margin-top: 10px;
+}
+.mb-3{
+    padding: 5px;
+}
+
+.button{
+    margin-top: 20px;
+    height: 40px;
+}
+.loginbutton{
+    width: 450px;
+    margin-top: 30px;
+    font-size: 30px;
+    width: 700px;
+}

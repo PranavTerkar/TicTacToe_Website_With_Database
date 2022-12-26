@@ -1,0 +1,18 @@
+
+.nogame{
+    margin: 10px;
+}
+.nogame__title1{
+    text-align: left;
+    margin: 20px;
+}
+
+.nogame__title2{
+    margin-top: 160px;
+}
+
+.nogame__button{
+    margin-top: 30px;
+    width: 400px;
+    color: #fff;
+}
